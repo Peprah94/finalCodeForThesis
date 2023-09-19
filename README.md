@@ -19,3 +19,6 @@ community alpha diversity
 - Paper Seven : Modeling species distribution using data from different sources
 and quality while accounting for uneven sampling effort, imperfect detection and
 misclassification
+
+- Appendix : The appendix contains tow subfolders which contains the source files
+for the R-packages developed in this thesis.
