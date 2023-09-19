@@ -1,5 +1,7 @@
 # finalCodeForThesis
 
+[![DOI](https://zenodo.org/badge/685887846.svg)](https://zenodo.org/badge/latestdoi/685887846)
+
 This repository hosts all the Rsrcipts and results used for my PHD thesis with title
 "A statistical Framework for modeling biodiversity data". The thesis contains 
 seven papers and here are the codes for each:
