@@ -1,0 +1,389 @@
+gbifID	type	format	identifier	references	title	description	source	audience	created	creator	contributor	publisher	license	rightsHolder
+4401699779	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/8/2a1f250a-e0aa-4598-9be5-37d388c692bd_image.jpg										© All rights reserved	Jeanett  Rædergård
+4161446416	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/7/87297d38-cf8a-4180-b4da-92fae921cfcb_image.jpg										© All rights reserved	Øystein Hegge
+4144704399	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/e8de2d78-7a04-41ca-8322-101bec52ba75_image.jpg										© All rights reserved	Per Inge Værnesbranden
+4137474550	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/9446b505-2587-4b35-80f5-31e213c9abfa_image.jpg										© All rights reserved	Jeanett  Rædergård
+4137466554	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/2298e4f8-e1ea-4816-82cd-b7269da43298_image.jpg										© All rights reserved	Jeanett  Rædergård
+4137417436	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/c5bccea5-17aa-45b4-b57c-262b125dfa14_image.jpg										© All rights reserved	Jeanett  Rædergård
+4137407410	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/182c9c4a-dc32-4a51-b192-e30d49b98872_image.jpg										© All rights reserved	Jeanett  Rædergård
+4131863066	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/f8ebe9e2-f1b8-4c19-9323-692a018e8091_image.jpg										© All rights reserved	Jostein Sandvik
+4131863066	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/7ea64fb5-02ea-4468-8951-4563b92c8f34_image.jpg										© All rights reserved	Jostein Sandvik
+4131844660	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/5/02e5c6dc-eae7-4c85-af6e-df3c62cb4db4_image.jpg										© All rights reserved	Bjørn Arild Steinsmo
+4131835051	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/5/362efba8-4766-43e0-b79e-6b6a9d705699_image.jpg										http://creativecommons.org/licenses/by/4.0/	Trond Sørhuus
+4131763186	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/5/125d58f8-8ece-408c-9291-e5435475e0d5_image.jpg										http://creativecommons.org/licenses/by/4.0/	Trond Sørhuus
+4131747918	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/5/e4d086e0-af9b-4d9c-b250-f5a0021a0d95_image.jpg										http://creativecommons.org/licenses/by/4.0/	Trond Sørhuus
+4131716458	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/6/5fa60982-d1b4-4ec1-a0ee-31d53ed8b936_image.jpg										© All rights reserved	Per Inge Værnesbranden
+4109512828	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/5/2fbb922a-5de6-4090-8689-f77e2f0aad98_image.jpg										© All rights reserved	Øystein Hegge
+4109496629	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/5/2575bf3a-c05a-4fbf-b528-e9ea5027998d_image.jpg										© All rights reserved	Jeanett  Rædergård
+4109496629	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/5/3b70839e-8474-4252-84ab-8fc2d3ee2c60_image.jpg										© All rights reserved	Jeanett  Rædergård
+4096154438	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/4/3ff55405-8ca6-4f4a-9731-a4f6d4e72895_image.jpg			var. omissus							http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+4079890619	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/4/76f96814-9f4b-446d-b190-08dc8290917b_image.jpg										© All rights reserved	Harald Dahlby
+4079825859	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/4/28faf2eb-39d8-49d4-bf5e-cee83bb4e30e_image.jpg										© All rights reserved	Stian Gjevik
+4070053449	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/1fb50b5d-f424-4765-a579-4754f6446abe_image.jpg			Par på tradisjonell hekkeplass, hvor arealet dessverre er blitt sterkt redusert p.g.a utbygging.							http://creativecommons.org/licenses/by-nc-sa/4.0/	Terje O. Nordvik
+4069969361	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/d01d03c4-6cf4-41fc-9424-8b0e2457afed_image.jpg										© All rights reserved	Hanne Hanssen
+4069969361	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/e882348e-0d73-4ace-8eed-ea95ee9c60c5_image.jpg										© All rights reserved	Hanne Hanssen
+4059529368	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/73eb062c-2676-4324-a109-0c9b11ff11c4_image.jpg										© All rights reserved	Arnt Stavne
+4059529368	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/305b9193-4636-4a8e-9de1-b1b423ae0a40_image.jpg										© All rights reserved	Arnt Stavne
+4059529368	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/8dfc90ed-5801-4e15-b4e8-d5e205ca4cbe_image.jpg										© All rights reserved	Arnt Stavne
+4053050407	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/94e3812a-9003-4a8d-80b9-865f1b4b23a4_image.jpg										© All rights reserved	Stian Gjevik
+4041830403	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/e6aa36d1-6290-475a-b977-54f3cb7c695e_image.jpg										© All rights reserved	Stian Gjevik
+4041830403	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/bd0da504-fe75-4787-978a-9c362a843b1f_image.jpg										© All rights reserved	Stian Gjevik
+4041830403	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/7575b377-7201-4e0c-a90d-2788070183f5_image.jpg										© All rights reserved	Stian Gjevik
+4041830403	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/7c453e11-c65a-45fe-b8bd-6c0d6e0e9078_image.jpg										© All rights reserved	Stian Gjevik
+4041830403	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/e3d30e14-636c-4338-83cc-83ceef7257db_image.jpg										© All rights reserved	Inge Berg
+4041830403	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/ffcc59bb-83ee-458b-83bb-14727558fda9_image.jpg										© All rights reserved	Stian Gjevik
+4041830403	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/a4db8521-863c-4945-80ad-2e40fe1fe98f_image.jpg										© All rights reserved	Stian Gjevik
+4041684421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/0bb8f279-8ccf-4813-95ba-6ac2c293e8f1_image.jpg										© All rights reserved	Kjetil Aadne Solbakken
+4041684421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/02b9771d-fd2b-434b-957a-e0422f9abfa7_image.jpg										© All rights reserved	Kjetil Aadne Solbakken
+4041684421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/a1240672-a5e4-4f06-9196-4bbd0d93d1fa_image.jpg										© All rights reserved	Kjetil Aadne Solbakken
+4041684421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/18650a65-5035-4530-a143-6d10c02b8522_image.jpg										© All rights reserved	Kjetil Aadne Solbakken
+4041684421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/7cec3b45-ce37-413a-bfee-0836bb802010_image.jpg										© All rights reserved	Kjetil Aadne Solbakken
+4041684421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/3/14320db6-2026-43c9-bab8-4a12c2b149eb_image.jpg										© All rights reserved	Kjetil Aadne Solbakken
+4027544415	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/bff0b4d3-849a-441d-8b6c-e35fbb5dc8d2_image.jpg										© All rights reserved	Øyvind Aas
+4027544415	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/582523ba-4c5a-4662-a5e8-39a368f1bab5_image.jpg										© All rights reserved	Øyvind Aas
+4027544415	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/7ff442c5-f86b-483b-bb47-2b95f6e542ce_image.jpg										© All rights reserved	Øyvind Aas
+4027544415	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/a36457ee-f56c-4744-b57c-8b0a5968b7ac_image.jpg										© All rights reserved	Øyvind Aas
+4027544415	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/82a2d9d8-515b-46e3-ba85-fb11767f29f0_image.jpg										© All rights reserved	Øyvind Aas
+4027515339	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/70ff5cdf-4e44-4bf6-bb5c-aa3dc432dfa8_image.jpg										© All rights reserved	Arild Halseth
+4027465448	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/91485b6a-8ddd-48b7-bffe-afc0330d6f9f_image.jpg										© All rights reserved	Arild Halseth
+4027465448	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/babdc308-bc26-4d94-9482-d38346122680_image.jpg										© All rights reserved	Arild Halseth
+4027414366	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/413d899b-dad2-4748-92a4-f35a6c7de08f_image.jpg										© All rights reserved	Arild Halseth
+4023632415	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/81292541-b714-437a-8630-0e1a1f4252b4_image.jpg										© All rights reserved	Jeanett  Rædergård
+4023628478	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/1f739bd3-c3cc-424d-84e0-62a47c7f16ab_image.jpg										© All rights reserved	Stian Gjevik
+4023628478	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/eb655c49-fca6-4da0-b4bd-09481f3d40ce_image.jpg										© All rights reserved	Stian Gjevik
+4023628478	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/db794f2b-caa2-472e-aa05-78e15204ee94_image.jpg										© All rights reserved	Stian Gjevik
+4023628478	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/0bd20cd5-227f-4c22-ae7f-ccaaf1f22749_image.jpg										© All rights reserved	Stian Gjevik
+4023628478	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/954f3625-f3ef-4468-b842-b0b90910738c_image.jpg										© All rights reserved	Stian Gjevik
+4023598456	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/2d224287-6d3d-405c-b6dd-a2f453f84a3b_image.jpg										© All rights reserved	Stig Gaarden
+4023586309	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/7dc66a04-492a-49ef-a518-504841374d1e_image.jpg										© All rights reserved	Helge Berge
+4023586309	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/dc843f75-3fca-426f-8019-36d7ff5fd866_image.jpg										© All rights reserved	Helge Berge
+4023586309	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/fdbd71f5-db91-45fd-8efa-30bed9296d25_image.jpg										© All rights reserved	Helge Berge
+4023586309	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/723ceda2-9076-4723-9714-b15e97722c40_image.jpg										© All rights reserved	Helge Berge
+4023560447	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/2fdcc3ec-72fc-42a8-b326-68880833bd99_image.jpg										© All rights reserved	Jeanett  Rædergård
+4023560447	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/1f1e61b9-7baf-4c8f-89da-4b743a92bc3c_image.jpg										© All rights reserved	Jeanett  Rædergård
+4023543428	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/2/7572f8ec-b85d-49c0-b1f9-17d1e50cdb97_image.jpg										http://creativecommons.org/licenses/by/4.0/	Nils Valland
+4023540506	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/a3d8aa08-b32c-4d0a-9b84-1837ca085267_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Kjell Larsen
+4020771451	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/39a34022-dc66-4410-a3f8-3285df25f283_image.jpg										© All rights reserved	Stian Gjevik
+4020770355	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/ad325e9d-582d-472b-8520-c55750c27651_image.jpg										© All rights reserved	Siri Sofie Børseth
+4020668436	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/ad0574b8-1c0d-4b01-bb1b-a760181643a7_image.jpg										© All rights reserved	Siri Sofie Børseth
+4020655346	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/e21f8fad-bfba-4cd2-a739-1dd9ef2595d5_image.jpg										© All rights reserved	Arnt Stavne
+4020655346	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/3fbc2ae7-98e0-4891-808b-3c89c29bfcbf_image.jpg										© All rights reserved	Arnt Stavne
+4016258446	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/c326bcc3-0f9c-4a3f-9de4-1b61de2bd05d_image.jpg										© All rights reserved	Stian Gjevik
+4016258446	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/75d6698b-be05-4940-a7ee-99077e95c10b_image.jpg										© All rights reserved	Stian Gjevik
+4016258446	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2023/1/41838cc1-619c-4890-9f9b-feccbdd3495a_image.jpg										© All rights reserved	Stian Gjevik
+3990901404	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/12/59245b46-d18b-4030-8d56-f2519f93f4e0_image.jpg										© All rights reserved	Stian Gjevik
+3990901404	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/12/8692f67b-cf68-41dc-b977-3dd89052dd3b_image.jpg										© All rights reserved	Stian Gjevik
+3990901404	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/12/7832eb97-a5ce-46b0-8f8a-75126eef7f11_image.jpg										© All rights reserved	Stian Gjevik
+3990901404	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/12/482074d4-3a08-44d3-ae89-a473e5eb8cdf_image.jpg										© All rights reserved	Stian Gjevik
+3987952400	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/12/22f5a6a5-417b-4a85-82fc-dff6122d36aa_image.jpg										© All rights reserved	Siri Sofie Børseth
+3979107350	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/11/becb229f-6485-4b66-9360-5b6aade11ace_image.jpg										© All rights reserved	Stian Gjevik
+3979107350	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/11/ce509fe0-bc79-4e6c-88a9-bee09b70be04_image.jpg										© All rights reserved	Stian Gjevik
+3979107350	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/11/c6772b92-6b4b-43f2-b58e-395323659145_image.jpg										© All rights reserved	Stian Gjevik
+3979106315	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/11/57618e9e-1bad-441f-b225-4179c20db432_image.jpg										© All rights reserved	Stian Gjevik
+3979106315	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/11/1c2f6fc9-2b58-472d-977e-3c10d0433424_image.jpg										© All rights reserved	Stian Gjevik
+3979106315	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/11/5804c94c-e9d8-4ddd-8e79-5618f8c29a47_image.jpg										© All rights reserved	Stian Gjevik
+3978994310	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/11/9f6b8272-1ea3-4292-ba21-27bfabdcd24c_image.jpg										© All rights reserved	Stian Gjevik
+3924316528	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/10/e10c09e4-9943-495f-a3ac-49fd6e218220_image.jpg										© All rights reserved	Gunnar Stenhaug
+3924242308	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/10/bbfc3f22-5897-4dba-9d19-75296c3e394f_image.jpg										© All rights reserved	Bjørg Wold Nygård
+3878935565	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/7/99ad7628-adcd-40a0-a873-4eba9bee6e28_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Kjell Larsen
+3816568411	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/6/b3defec9-04fb-4756-8405-cf1646fe29c0_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Kjell Larsen
+3807896392	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/6/eda5d8ee-2b02-4e0b-bda1-46dc8a048f79_image.jpg										© All rights reserved	Helge Berge
+3803928392	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/6/c52edac9-df3f-490e-aef6-12cd02c27fc3_image.jpg										© All rights reserved	Jostein Sandvik
+3803843450	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/6/2c71703e-b492-4643-903f-41c0b993584a_image.jpg										© All rights reserved	Gregorius Toonen
+3780709644	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/5/5ec2b874-0847-4371-b90f-798c9d7fc7fc_image.jpg										© All rights reserved	Gunnar Stenhaug
+3780709644	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/5/161eaa52-3cb7-40c8-b87e-62c86a637593_image.jpg										© All rights reserved	Gunnar Stenhaug
+3780580606	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/5/d418bad2-0882-403d-8aee-3cc0029ca0e3_image.jpg										© All rights reserved	Helge Berge
+3750105415	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/4/f0230ecd-3efe-486b-b32b-dfe9c6e60cd1_image.jpg										© All rights reserved	Oddveig Torve
+3735778325	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/3/96591f51-7255-41fe-b8b5-65522ec87a1e_image.jpg										© All rights reserved	Arnt Stavne
+3735778325	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/3/71ae36b5-9588-45bd-a9e5-f8cc609ba2d3_image.jpg										© All rights reserved	Arnt Stavne
+3735778325	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/3/787ec34d-3139-4851-b35e-400f7118e5b6_image.jpg										© All rights reserved	Arnt Stavne
+3711820311	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/3/022b914a-7d95-43d9-b650-298e9804a3d1_image.jpg										© All rights reserved	Helge Berge
+3704162323	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/3/b9ebfa81-aef3-43ef-83f3-b2929c85d5f6_image.jpg										© All rights reserved	Odd Rune Einmo
+3469559402	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/6eb004d0-4b5a-405c-9615-744e71a5b0cb_image.jpg										© All rights reserved	Helge Berge
+3469559402	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/8fc34cd7-20b9-41ae-86f9-a55014c9d98a_image.jpg										© All rights reserved	Helge Berge
+3469559402	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/cf2c685d-1c12-4bb2-8254-245f782a7d63_image.jpg										© All rights reserved	Helge Berge
+3469529398	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/faf77d6b-ef39-4a0d-91ff-0762746b305f_image.jpg										© All rights reserved	Siri Sofie Børseth
+3469512391	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/647139b0-2e57-4660-bdda-f844686efa41_image.jpg										© All rights reserved	Siri Sofie Børseth
+3469461343	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/f7e9fe80-dd29-46db-9033-5c145d72cc73_image.jpg										© All rights reserved	Helge Berge
+3469451425	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/4710f9a5-e6c4-4907-95e1-b1083f860f7d_image.jpg			Ringmerket. JUY51							© All rights reserved	Bjørn Schjølberg
+3465498468	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/656b7e93-9291-46fa-b7e9-749d33b0f98d_image.jpg										http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+3465483371	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/0e02a636-a3bd-466d-a047-9eab2150862f_image.jpg										http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+3465473356	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/7dec0acc-50ca-4f4e-9808-796db7c7635e_image.jpg										© All rights reserved	Siri Sofie Børseth
+3465473356	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/54776e92-7bc5-49a3-aaf9-943cf7c32824_image.jpg										© All rights reserved	Siri Sofie Børseth
+3465473356	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/ce5090c7-c972-4988-b1dd-ea5857ee032a_image.jpg										© All rights reserved	Siri Sofie Børseth
+3465471436	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/63bd3497-7284-42d7-8996-396db83b4295_image.jpg										http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+3465471436	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/116da0f5-f8cf-43b2-a0e9-6dfa797a1a4e_image.jpg										http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+3465471436	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/a4306315-ef26-4667-91ba-7ead13e626ce_image.jpg										http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+3465451380	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/c9b2e1c6-0465-4078-83a2-bc8375093b14_image.jpg										© All rights reserved	Arild Halseth
+3465380357	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/824e258c-f1b8-4e18-bf22-877cb7123424_image.jpg										© All rights reserved	Stig Gaarden
+3462831383	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/319475be-b5df-4735-b9d4-f2b6d6d345e8_image.jpg										© All rights reserved	Stig Gaarden
+3462809368	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/926820ad-2887-4499-a74b-7410ae0eb071_image.jpg										© All rights reserved	Paul Shimmings
+3462809368	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/2/228a93bd-8263-4f5d-a22b-c5fb6ff60058_image.jpg										© All rights reserved	Paul Shimmings
+3460137445	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/1fbed1ba-8673-4f5e-ba6b-ff6f75f8c3ea_image.jpg										http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+3460076413	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/3b671837-bc43-46d6-b216-7530af592733_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Kjell Larsen
+3451438407	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/0c2c72e7-2a8a-4d62-b33f-a9ec39c914be_image.jpg										© All rights reserved	Wictor Wahlberg
+3451438407	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/a55b57e1-8247-4160-9190-6efbc239e965_image.jpg										© All rights reserved	Wictor Wahlberg
+3451438407	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/465dc695-e2d4-4587-9ec3-d97df4579072_image.jpg										© All rights reserved	Wictor Wahlberg
+3451438407	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/0eaeaa0a-3d90-4517-ac43-f3c834e74661_image.jpg										© All rights reserved	Wictor Wahlberg
+3429012466	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/04f88c37-dd47-42c0-b053-59579b8cb0bd_image.jpg										© All rights reserved	Helge Berge
+3428999517	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/ba950a97-fca2-4efe-8187-62a3ba3c34ee_image.jpg										© All rights reserved	Stig Gaarden
+3428894480	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/c3b38dc9-004b-449b-bf45-0f968359ce6c_image.jpg										© All rights reserved	Helge Berge
+3428894480	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/1806a6d8-2ae7-4e21-997c-be25afdd1d7c_image.jpg										© All rights reserved	Helge Berge
+3428894480	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/20209eec-17e6-4972-94bc-2deee01615fc_image.jpg										© All rights reserved	Helge Berge
+3428894480	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/69f9a9e7-b84d-4757-80ec-98ad41aebdff_image.jpg										© All rights reserved	Helge Berge
+3428885398	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/073ad8a0-3d79-4a12-9ff8-314a2a54e7bb_image.jpg										© All rights reserved	Helge Berge
+3428846504	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2022/1/471a426a-5fb7-41a6-addb-508ef5dcad09_image.jpg										© All rights reserved	Helge Berge
+3424219407	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/e42b26b4-4ca1-41f3-bf29-4f5373b7a09e_image.jpg			Stor ansamling, daglig foring.							http://creativecommons.org/licenses/by-nc-sa/4.0/	Terje O. Nordvik
+3422065313	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/160c7a0c-447e-40f3-921c-c4fd5593bb14_image.jpg										© All rights reserved	Stig Gaarden
+3417386394	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/78850d80-92b5-478a-b3bd-f2911872d937_image.jpg										© All rights reserved	Oddveig Torve
+3417386394	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/97496c3f-107a-40c2-a688-0c93bbe94b62_image.jpg										© All rights reserved	Oddveig Torve
+3417246357	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/c40b9f74-804b-4bc9-8fff-781ac37b4bfe_image.jpg										© All rights reserved	Md Abu Jafar Sujan
+3417206386	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/512c2273-dad0-4d5c-81fc-d57fb02dd3e7_image.jpg										© All rights reserved	Bjørg Wold Nygård
+3417206386	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/248dce42-db05-493c-bee0-089d8a96d81b_image.jpg										© All rights reserved	Bjørg Wold Nygård
+3417206386	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/9bd53216-2c65-4a1a-b3e5-57434848a79a_image.jpg										© All rights reserved	Bjørg Wold Nygård
+3417206386	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/28564785-b005-4499-8fc1-a631d88f1b73_image.jpg										© All rights reserved	Bjørg Wold Nygård
+3417206386	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/c69cc7a4-bdd2-4a44-9918-6ce2fd0e4313_image.jpg										© All rights reserved	Bjørg Wold Nygård
+3417206386	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/f6fc9a57-2d5c-40cd-9a1e-32af3dbd0eea_image.jpg										© All rights reserved	Bjørg Wold Nygård
+3414553319	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/f6f9579c-656f-49f5-ae2c-8d7a8474b980_image.jpg										© All rights reserved	Helge Berge
+3414553319	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/12/9d83cffe-6ad3-4c9d-86b1-b2f70e3027eb_image.jpg										© All rights reserved	Helge Berge
+3408594367	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/11/832c7dee-e766-46f6-b0f3-f17680e00b25_image.jpg										© All rights reserved	Siri Sofie Børseth
+3396857352	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/11/4f0bd550-f800-45c5-974b-607fa7471091_image.jpg										© All rights reserved	Helge Berge
+3380749374	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/9/305d2311-9c25-4678-b5f7-a19cfd001bf2_image.jpg										© All rights reserved	Stig Gaarden
+3345135474	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/9/01a0394b-80f2-4820-a295-10cb8cdb7d84_image.jpg										© All rights reserved	Siri Sofie Børseth
+3342037330	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/8/8a65223d-8194-45b5-bd12-b9254f727506_image.jpg										© All rights reserved	Gunnar Stenhaug
+3342037330	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/8/92c89ce5-5629-4f42-a2e2-26fb8fbb0df3_image.jpg										© All rights reserved	Gunnar Stenhaug
+3332712494	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/8/7cbb23b8-256c-4271-88b5-5f39a98d7da2_image.jpg										© All rights reserved	Helge Berge
+3332536394	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/8/55b4bfaf-ba1f-4aa5-bcf3-c20bb33b9467_image.jpg										© All rights reserved	Helge Berge
+3309951319	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/6/b4527a3b-c5e7-455a-a013-e33790a0d4a5_image.jpg										© All rights reserved	Siri Sofie Børseth
+3309951319	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/6/72e48080-338a-4ac3-a759-95ab655ade0c_image.jpg										© All rights reserved	Siri Sofie Børseth
+3309951319	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/6/480fc826-ce61-4b7e-bdea-cab82918c9f2_image.jpg										© All rights reserved	Siri Sofie Børseth
+3303216128	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/5/6a92367c-90fb-46ea-aa49-27761afcf806_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Kjell Larsen
+3091513424	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/b961e1ad-1a2d-47be-9f65-2a0f7ff0dd85_image.jpg										© All rights reserved	Siri Sofie Børseth
+3091497642	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/81eb5de3-ae5a-4dab-97bb-42cd1c15fa11_image.jpg										© All rights reserved	Gunn Nyborg
+3091399493	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/20943479-aaca-433b-846c-6812a80a7ae1_image.jpg										© All rights reserved	Helge Berge
+3091329321	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/ebee6b03-7bae-484b-a525-51ce94079a03_image.jpg										© All rights reserved	Helge Berge
+3080035614	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/d2b90b0b-be55-48a9-b330-dd87eebc5f0e_image.jpg										© All rights reserved	Helge Berge
+3070038501	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/0bf8d378-a9e4-478f-b460-577692c634d6_image.jpg										© All rights reserved	Øyvind Aas
+3069988520	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/1deaba6e-d62a-4f13-a302-36d418faf1ec_image.jpg										© All rights reserved	Md Abu Jafar Sujan
+3069988520	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/c32e4e30-4eaa-4977-ac73-f7fcf7ad4e42_image.jpg										© All rights reserved	Md Abu Jafar Sujan
+3069979458	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/4/ad463dae-2bb4-4cce-a9ff-8323283d870e_image.jpg										© All rights reserved	Md Abu Jafar Sujan
+3061357440	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/3/0588fb43-c987-4c89-a9d6-09b694abf2ef_image.jpg										© All rights reserved	Øyvind Aas
+3050689351	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/3/f443e872-e5be-4676-9572-eb15b9a692af_image.jpg										© All rights reserved	Siri Sofie Børseth
+3050515353	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/3/24ec1ec6-ad00-4c60-9240-c35a1c2a44bf_image.jpg										© All rights reserved	Øyvind Aas
+3045422325	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/2/f28804b2-2149-4f48-9bee-6448a534b830_image.jpg										© All rights reserved	Øystein Størkersen
+3045422325	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/2/9cd3ebf3-e07f-45b5-b7c7-f23f147975bf_image.jpg										© All rights reserved	Øystein Størkersen
+3027837421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2021/1/628fdfb5-a79b-4af6-8efb-ff4313766ee0_image.jpg										© All rights reserved	Paul Shimmings
+2991901335	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/12/cfbc4854-bfcf-4b23-8764-f6d338c0f272_image.jpg										© All rights reserved	Svein Harald Selliseth
+2991720368	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/12/a6fa5bf5-eb10-4614-91e5-f2671a129bfb_image.jpg										© All rights reserved	Svein Harald Selliseth
+2964176421	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/11/baede788-b16b-4c16-9dcc-dec7355bdd5f_image.jpg										© All rights reserved	Gunn Nyborg
+2848837347	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/5/b34954cc-cf20-4db8-91cc-1826130f1b06_image.jpg										© All rights reserved	Arnold Lorentsen
+2826095351	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/8/30c10187-edc3-4cea-8a3c-78546da2f9b6_image.jpg										© All rights reserved	Odd Einum
+2825963477	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/8/4383a689-3915-4918-bef8-323a7426f6d1_image.jpg										© All rights reserved	Siri Sofie Børseth
+2815342555	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/6/8acf1a2c-f5d7-4ca6-a8a4-bc30a195ab2d_image.jpg										© All rights reserved	Per Inge Værnesbranden
+2627698494	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/4/4151738f-f6db-48a5-bf9e-1bd3498fe3a7_image.jpg										© All rights reserved	Siri Sofie Børseth
+2627628652	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/3/e2a662f7-926e-4ba3-a071-1d4ee6ff5957_image.jpg										© All rights reserved	Arnt Stavne
+2627388712	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/5/ccd6dc5f-903f-4066-9650-eefd0aab7139_image.jpg										© All rights reserved	Siri Sofie Børseth
+2627270054	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/3/34afce9a-8353-409c-b2f4-270b8ebcbe62_image.jpg										© All rights reserved	Jomar Svartås
+2627200095	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/4/315a95f3-6c5c-4b4e-a0bc-9cb83f715a5e_image.jpg										© All rights reserved	Ellen Anne Tollan
+2627176094	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/4/ab92d675-74b6-4f79-93e8-319a49ecf584_image.jpg										© All rights reserved	Jostein Sandvik
+2627124897	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/3/94dd533f-795f-49f8-a278-c193ad96defa_image.jpg										© All rights reserved	Kari Todnem
+2627052591	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/5/88d3488a-a11f-42fb-bddd-0cce2c06f885_image.jpg										© All rights reserved	Liv Hilmarsen
+2627038318	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/3/b3a216aa-d334-4af4-9f42-a3e106be7f3c_image.jpg										© All rights reserved	Øyvind Aas
+2579095563	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/2/f07fae13-f945-4a36-be44-8852923f6292_image.jpg										© All rights reserved	Kristian S. Bjerve
+2556503186	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/1/4a3d89fe-a8b3-428c-81b2-3a6f4c969092_image.jpg										© All rights reserved	Jomar Svartås
+2467911343	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/11/5dee51eb-0d10-43c9-bfab-45d8f3181584_image.jpg										© All rights reserved	Siri Sofie Børseth
+2427241238	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/10/79c15842-89e3-4fe2-9e4b-d3a45e8a7020_image.jpg										© All rights reserved	Siri Sofie Børseth
+2416745356	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/113696.jpg										© All rights reserved	Trond Hervik
+2412279665	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2008/large/76008.jpg										© All rights reserved	Morten Vang
+2412279665	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2008/large/76009.jpg										© All rights reserved	Morten Vang
+2412156385	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/2/ebd95309-f194-4c48-8921-9c0f3efe97c0_image.jpg										© All rights reserved	Arnt Stavne
+2411707967	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/246307.jpg			Mistet en fot.							© All rights reserved	Jon Helle
+2411262101	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/a02e29f5-7998-499a-b8ba-58288bac51d0_image.jpg										© All rights reserved	Bjørg Støen
+2411106599	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/490030.jpg										© All rights reserved	Jan Ove Bratset
+2411042180	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/4acafac0-1242-4251-bf5f-0628bcccfe77_image.jpg										© All rights reserved	Bjørg Støen
+2410998547	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/12/83e12146-7cb6-4f12-b129-54cb277f1cb0_image.jpg										© All rights reserved	Jan Ove Bratset
+2410813297	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/121472.jpg			Høyst sannsynlig samme individ som ble sett i Lensvika 19des2008. Bilde foreligger også fra 2008.							© All rights reserved	Georg Bangjord
+2410667352	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/497574.jpg										© All rights reserved	Bjørg Støen
+2410666889	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2013/large/326329.jpg										© All rights reserved	Torgeir Ring
+2410661406	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/11/afadfcdf-38df-40a4-ac38-aaec6558ba02_image.jpg										© All rights reserved	Jan Ove Bratset
+2410661406	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/11/7e186541-89e7-41ae-8696-d2885af3961f_image.jpg										© All rights reserved	Jan Ove Bratset
+2410661406	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/11/97919935-ccc5-44f3-b758-139e993befc9_image.jpg										© All rights reserved	Jan Ove Bratset
+2410661406	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/11/9de036f1-278f-4de0-b872-8a818a443196_image.jpg										© All rights reserved	Jan Ove Bratset
+2410661406	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/11/a73fb7d8-5f44-4556-8fce-bcbec6638d5c_image.jpg										© All rights reserved	Jan Ove Bratset
+2410661406	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/11/7c2b331c-e7c6-4172-804a-a1bd2cef9fde_image.jpg										© All rights reserved	Jan Ove Bratset
+2409967352	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/85408.jpg										© All rights reserved	Morten Wedege
+2409967352	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/85407.jpg										© All rights reserved	Morten Wedege
+2409555059	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/1/532103d5-9224-459f-9a66-f4dc3d5d3da9_image.jpg										© All rights reserved	Jan Ove Bratset
+2409352945	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/90424.jpg										© All rights reserved	Rolf Terje Kroglund
+2409154364	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/79294.jpg										© All rights reserved	Morten Vang
+2408992896	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/500698.jpg										© All rights reserved	Bjørg Støen
+2408992896	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/500697.jpg										© All rights reserved	Bjørg Støen
+2408992264	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/a80e1d60-9bb6-4232-81aa-f60266d2fedf_image.jpg										© All rights reserved	Bjørg Støen
+2408630399	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/78463.jpg			Nidarømåka							© All rights reserved	Oddvar Heggøy
+2408586659	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2013/large/382121.jpg										© All rights reserved	Jan Ove Bratset
+2408282966	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/492348.jpg										© All rights reserved	Jan Ove Bratset
+2408151078	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/441866.jpg										© All rights reserved	Frank Robert Lyngvær
+2408111349	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/5/e2c31746-d655-445f-847a-f06af56209d8_image.jpg			Dagens største på fuglebrettet. Han (eller hun) er for øvrig ganske fast gjest. Spiser t.o.m solsikk							© All rights reserved	Bjørg Støen
+2408006442	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/b6a07443-121e-41bd-9dad-b9514a49f049_image.jpg										© All rights reserved	Jan Ove Bratset
+2408006442	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/f3508e0a-1c16-44e0-9853-a95675f2041f_image.jpg										© All rights reserved	Jan Ove Bratset
+2408006442	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/5b402af1-f367-4d2e-ac1f-ab9a71ad455a_image.jpg										© All rights reserved	Jan Ove Bratset
+2408006442	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/f90b3ee3-c5f9-4e8c-95a5-a3ea34087e8a_image.jpg										© All rights reserved	Jan Ove Bratset
+2408006442	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/6e648e31-5573-4a6e-a539-3a1e1beeb374_image.jpg										© All rights reserved	Jan Ove Bratset
+2407917272	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2013/large/323233.jpg			Helt lys fugl. Mener detter er 2.vinter.							© All rights reserved	Frank Robert Lyngvær
+2407886656	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2011/large/229552.jpg										© All rights reserved	Hans Einar Ring [1960–2017]
+2407815447	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/304895.jpg										© All rights reserved	Arnold Lorentsen
+2407755715	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/1/6da51d5e-6325-4fb6-983f-5e7c7e4c9fd7_image.jpg										© All rights reserved	Jan-Egil Eilertsen
+2407269066	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/161530.jpg										© All rights reserved	Karel Krizak
+2407089745	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/489603.jpg										http://creativecommons.org/licenses/by/4.0/	Knut Krogstad
+2407074667	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/396357.jpg										© All rights reserved	Harald Dahlby
+2407074667	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/396356.jpg										© All rights reserved	Harald Dahlby
+2407074667	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/396355.jpg										© All rights reserved	Harald Dahlby
+2406934772	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/409927.jpg										© All rights reserved	Bjørg Støen
+2406934772	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/409926.jpg			Ikke hver dag gråmåkene inntar fuglebrettet.							© All rights reserved	Bjørg Støen
+2406934772	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/409928.jpg										© All rights reserved	Bjørg Støen
+2406934772	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/409929.jpg										© All rights reserved	Bjørg Støen
+2406934772	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/409930.jpg										© All rights reserved	Bjørg Støen
+2406898308	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/490153.jpg										© All rights reserved	Jan Ove Bratset
+2406898308	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/490154.jpg										© All rights reserved	Jan Ove Bratset
+2406884735	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/78474.jpg										© All rights reserved	Morten Vang
+2406552661	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/393515.jpg										© All rights reserved	Bjørn Olav Tveit
+2406072935	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2008/large/68501.jpg			Nidarømåka							© All rights reserved	Morten Vang
+2406072935	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2008/large/68500.jpg										© All rights reserved	Morten Vang
+2406072935	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2008/large/68502.jpg			Nidarømåka							© All rights reserved	Morten Vang
+2405919986	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/160491.jpg										© All rights reserved	Thomas Kvalnes
+2405919986	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/160490.jpg										© All rights reserved	Thomas Kvalnes
+2405917431	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/443015.jpg										© All rights reserved	Joakim Gulbrandsen Lein
+2405917431	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/443014.jpg										© All rights reserved	Joakim Gulbrandsen Lein
+2405838156	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/2/1556734f-9c7d-4515-bb12-daf0adf03cf8_image.jpg										© All rights reserved	Venke Ivarrud
+2405838156	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/2/0825f865-43da-4faa-9e57-70108177ab51_image.jpg										© All rights reserved	Venke Ivarrud
+2405828019	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/398511.jpg										© All rights reserved	Hans Einar Ring [1960–2017]
+2405828019	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/398253.jpg			Gulbein eller kaspi?							© All rights reserved	Hans Einar Ring [1960–2017]
+2405720699	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/141341.jpg										© All rights reserved	Rolf Terje Kroglund
+2405634243	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/233804.jpg										© All rights reserved	Eirik Spets
+2405589036	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/487974.jpg										© All rights reserved	Jan Ove Bratset
+2405589036	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/487975.jpg										© All rights reserved	Jan Ove Bratset
+2405263412	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/10/f6f81f4a-2c19-45c7-b435-0e26d02590ba_image.jpg			Gråmåke på Nidarø							© All rights reserved	Finn Otto Sanne
+2405263412	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/11/ded37869-82c9-4332-aad2-64bd001ccdb0_image.jpg			Gråmåke på Nidarø							© All rights reserved	Finn Otto Sanne
+2405263412	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/10/e14d6050-0143-4ead-9196-7e1ab4648b96_image.jpg			Gråmåke på Nidarø							© All rights reserved	Finn Otto Sanne
+2405179382	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/478141.jpg										© All rights reserved	Kjell Erik Waclawczyk
+2404805531	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/393934.jpg										© All rights reserved	Svein Melum
+2404805531	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/393937.jpg										© All rights reserved	Svein Melum
+2404805531	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/393936.jpg										© All rights reserved	Svein Melum
+2404805531	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/393935.jpg										© All rights reserved	Svein Melum
+2404792639	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/7/ba7ed817-474a-459f-bb7d-b121dc9ed124_image.jpg										© All rights reserved	Vegard Aksnes
+2404792639	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/7/855b935c-fc70-4648-9118-4b7bd6a8d451_image.jpg										© All rights reserved	Vegard Aksnes
+2404792639	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/7/8093d051-b127-455a-8264-b49635dfe522_image.jpg										© All rights reserved	Vegard Aksnes
+2404792639	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/7/cf4f4b5e-9672-4314-991d-0047b64dc351_image.jpg										© All rights reserved	Vegard Aksnes
+2404792639	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/7/65fc69b2-cf5a-41df-b8e1-971c58ff186e_image.jpg										© All rights reserved	Vegard Aksnes
+2404789990	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/1/b4c1e4ed-203a-4bc6-ab46-ecb6600e6cd4_image.jpg										© All rights reserved	Gunn Nyborg
+2404749341	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/489561.jpg										© All rights reserved	Jan Ove Bratset
+2404433591	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/413233.jpg										© All rights reserved	Bjørg Støen
+2404433591	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/413234.jpg										© All rights reserved	Bjørg Støen
+2404168922	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/406582.jpg			Det er ikke bare småfuglene som oppsøker foringsplassen :)							© All rights reserved	Bjørg Støen
+2403882948	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/469433.jpg										http://creativecommons.org/licenses/by/4.0/	Knut Krogstad
+2403882948	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/469432.jpg										http://creativecommons.org/licenses/by/4.0/	Knut Krogstad
+2403801382	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/88ed60ff-ff6a-4cee-abe5-fada7e6275c2_image.jpg			Snor hengende fra nebbet							© All rights reserved	Bjørg Støen
+2403801382	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/1dd2cb84-69d8-48d0-be43-812aaa2a78f2_image.jpg			Snor hengende fra nebbet							© All rights reserved	Bjørg Støen
+2403689972	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/482942.jpg										© All rights reserved	Brage Bærheim
+2403689972	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/482943.jpg										© All rights reserved	Brage Bærheim
+2403240410	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/483228.jpg										© All rights reserved	Gunn Nyborg
+2403240410	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/483227.jpg										© All rights reserved	Gunn Nyborg
+2403220894	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/5/f99c4886-16e2-4f42-b595-27e0a472f9c2_image.jpg										© All rights reserved	Øyvind Aas
+2402924121	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/12/e61dafa0-8bb4-473d-975d-b3e0e4c59e95_image.jpg										© All rights reserved	Odd Rygh
+2402924121	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/12/41edeb55-8e7b-431b-812e-78cb6aad7146_image.jpg										© All rights reserved	Odd Rygh
+2402924121	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/12/06ab9a7b-40f8-4626-acdc-c2f3395ad069_image.jpg										© All rights reserved	Odd Rygh
+2402412218	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/484461.jpg			Har dessverre ikke flere bilder... Her er nærbilde av foten							© All rights reserved	Brage Bærheim
+2402412218	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2015/large/484460.jpg			Noen som vet hvor denne skal rapporteres og eventuelt hvor den kommer fra?  Metallringen begynner me							© All rights reserved	Brage Bærheim
+2402306324	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/233415.jpg			Svært kraftig streking i hodet på dette individet får tankene å gå mot amerikagrå. Spesielt i disse							© All rights reserved	Eirik Grønningsæter
+2402268128	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/160968.jpg			1k							© All rights reserved	Thomas Kvalnes
+2402249233	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/396512.jpg										© All rights reserved	Bjørg Støen
+2402249233	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/396513.jpg										© All rights reserved	Bjørg Støen
+2402249233	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/396514.jpg										© All rights reserved	Bjørg Støen
+2402249233	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/396515.jpg										© All rights reserved	Bjørg Støen
+2402131548	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2011/large/191818.jpg										© All rights reserved	Arnold Lorentsen
+2402110169	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2011/large/229550.jpg										© All rights reserved	Hans Einar Ring [1960–2017]
+2402110169	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2011/large/229549.jpg			Ønsker kommentarer på årsaken til at individet mangler det meste av svømmehud.							© All rights reserved	Hans Einar Ring [1960–2017]
+2401909279	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/398483.jpg										© All rights reserved	Jan Ove Bratset
+2401909279	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/398484.jpg										© All rights reserved	Jan Ove Bratset
+2401909279	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/398485.jpg										© All rights reserved	Jan Ove Bratset
+2401909279	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/398482.jpg										© All rights reserved	Jan Ove Bratset
+2401855561	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/00dde70b-e285-41d6-aab6-d5818508cdb0_image.jpg										© All rights reserved	Vegard Aksnes
+2401855561	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/63433a68-88ad-49e9-8cf8-bac50ab85e24_image.jpg										© All rights reserved	Vegard Aksnes
+2401781675	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/439518.jpg										© All rights reserved	Gunnar Stenhaug
+2401767183	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/238200.jpg										© All rights reserved	Hans Einar Ring [1960–2017]
+2401767183	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/238201.jpg										© All rights reserved	Hans Einar Ring [1960–2017]
+2401767183	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/238202.jpg										© All rights reserved	Hans Einar Ring [1960–2017]
+2401633159	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/6/7e81c0bb-9fed-47c0-aa18-304a40411cf3_image.jpg										© All rights reserved	Per Inge Værnesbranden
+2401604797	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2008/large/58201.jpg										http://creativecommons.org/licenses/by/4.0/	Nils Valland
+2401543855	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/422439.jpg										© All rights reserved	Odd Rygh
+2401406512	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/231472.jpg										© All rights reserved	Sigurd  Bangjord
+2401406512	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/231471.jpg										© All rights reserved	Sigurd  Bangjord
+2401406512	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/231468.jpg										© All rights reserved	Sigurd  Bangjord
+2401406512	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/231467.jpg										© All rights reserved	Sigurd  Bangjord
+2401406512	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/231470.jpg										© All rights reserved	Sigurd  Bangjord
+2401329644	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/d23865e0-0186-4209-8390-a3cac6075f5e_image.jpg			Dagens største på fuglebrettet...							© All rights reserved	Bjørg Støen
+2401329644	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/fd946467-eeb0-4781-b86e-e2661691600e_image.jpg										© All rights reserved	Bjørg Støen
+2401329644	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/4ca598b5-66de-4cb9-bbfe-35f20fab028f_image.jpg										© All rights reserved	Bjørg Støen
+2401156807	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/265916.jpg										© All rights reserved	Odd Rygh
+2401156807	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/266244.jpg										© All rights reserved	Odd Rygh
+2400775844	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/461289.jpg										© All rights reserved	Jan Ove Bratset
+2400594777	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/110477.jpg			Iris er ikke fullt så mørk lenger men øyeringen er fortsatt blodrød, nebbet med lite utpreget gonys,							© All rights reserved	Tor Bollingmo
+2400594777	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/110478.jpg			2P (regnet utenfra) uten hvit subterminal flekk, 7P med liten svart flekk i utfanen. Hos argentatus							© All rights reserved	Tor Bollingmo
+2400581553	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/391902.jpg										© All rights reserved	Bjørg Støen
+2400424226	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/6/95955e85-6000-42e5-b4d0-40ff7f26667d_image.jpg										© All rights reserved	Per Inge Værnesbranden
+2400393565	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2008/large/58064.jpg										http://creativecommons.org/licenses/by/4.0/	Nils Valland
+2400344366	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/fcbe2274-c367-4ec1-adaa-a14af8b51337_image.jpg			Gråmåke							© All rights reserved	Jan-Egil Eilertsen
+2400344366	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/128acc41-3cfb-4128-88f2-fd5657d0d478_image.jpg			Ungfugl							© All rights reserved	Jan-Egil Eilertsen
+2400195000	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/82001.jpg										© All rights reserved	Jon Kolstad
+2400071928	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2015/12/1549e5bc-fc18-449d-b327-726c5dffa20d_image.jpg										© All rights reserved	Jan Ove Bratset
+2400028110	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/158278.jpg			1k i bildet.							© All rights reserved	Thomas Kvalnes
+2399734367	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/235262.jpg										© All rights reserved	Karel Krizak
+2399679243	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/105572.jpg										© All rights reserved	Kjell Erik Waclawczyk
+2399632169	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/366d69e6-75d6-4d4e-969f-f09e4ff15072_image.jpg										© All rights reserved	Andreas Winnem
+2399632169	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/4af19319-498b-435d-951f-00f5ea77eb98_image.jpg										© All rights reserved	Andreas Winnem
+2399632169	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/77879424-7ed0-429a-b0c8-d42dc9a6a292_image.jpg										© All rights reserved	Andreas Winnem
+2399632169	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/3/60658d9f-14dd-4f20-b492-dd9c46becaf4_image.jpg										© All rights reserved	Andreas Winnem
+2399336456	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/2/7bdcf188-81d5-4625-b85c-f494e6cedd75_image.jpg										© All rights reserved	Jan Ove Bratset
+2399055221	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2011/large/229339.jpg										© All rights reserved	Arnold Lorentsen
+2398996245	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/87395.jpg										© All rights reserved	Per Inge Værnesbranden
+2398996245	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/87396.jpg										© All rights reserved	Per Inge Værnesbranden
+2398886368	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2012/large/266659.jpg										© All rights reserved	Arnold Lorentsen
+2398862457	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/a8391606-14d5-40ed-a8bf-c611b530ff74_image.jpg										© All rights reserved	Bjørg Støen
+2398862457	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2016/1/917b4e08-93a6-41eb-b12e-af202d64407e_image.jpg										© All rights reserved	Bjørg Støen
+2398826852	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/452581.jpg			?  Noe svakt grått? på vingesp.							© All rights reserved	Svein Melum
+2398826852	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/452582.jpg										© All rights reserved	Svein Melum
+2398716857	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/2/40c9ed32-ef11-4848-b99c-7c1396e81748_image.jpg										© All rights reserved	Jomar Svartås
+2398585899	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/386298.jpg										© All rights reserved	Edith Pettersen
+2398484841	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2014/large/410584.jpg										© All rights reserved	Bjørg Støen
+2398462934	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2009/large/82596.jpg										© All rights reserved	Sigurd  Bangjord
+2398197807	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2010/large/161120.jpg										© All rights reserved	Jon Helle
+2398193651	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/3/9f83f746-916c-4b9c-a2ac-0a3341cf90ea_image.jpg										© All rights reserved	Venke Ivarrud
+2398183053	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/birds/2013/large/377497.jpg										© All rights reserved	Jan Ove Bratset
+2252310136	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/5/6b7ae60d-aa78-43b2-905a-7d3cadd96006_image.jpg										© All rights reserved	Harald Dahlby
+2247947647	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/5/f1757825-4cf3-4875-8985-307113e2bb12_image.jpg										© All rights reserved	Vegard Aksnes
+2247921938	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/5/a0329e12-132e-4f3a-8cd9-8c0d71288e4a_image.jpg										© All rights reserved	Morten Venås
+2247921938	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/5/a70df345-0ecd-4779-9001-7d6db7ce6c1b_image.jpg										© All rights reserved	Morten Venås
+2027423169	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/3/978b4bac-1917-4d3b-b1d2-c59ff2b835bf_image.jpg										© All rights reserved	Arnt Stavne
+2027419293	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/2/fd432bb3-7c08-49b5-b0fd-9978636a1ea8_image.jpg										© All rights reserved	Jan-Egil Eilertsen
+2027360767	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/3/3122e063-c87a-410d-b704-64a2533954c0_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Raymond Borgen
+2027360767	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/3/2abc0afa-80a4-484e-b572-b5d90a96084c_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Raymond Borgen
+2027360767	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/3/b5a95fd8-64f4-4155-8451-5664366a7d72_image.jpg										http://creativecommons.org/licenses/by-nc-sa/4.0/	Raymond Borgen
+2006206802	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2019/1/657c8c9a-6bb9-4a8b-8c7c-8984347d6c86_image.jpg										© All rights reserved	Siri Sofie Børseth
+2006147865	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/12/e0ef576e-7de2-479c-a7ac-3b301461e200_image.jpg										© All rights reserved	Siri Sofie Børseth
+1946436235	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/11/6ce8a023-7c92-4029-bd71-432088999a46_image.jpg										© All rights reserved	Ole-Kristian Antonsen
+1946436235	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/11/fb27222b-5594-4166-a9c5-c49b884c2b37_image.jpg										© All rights reserved	Ole-Kristian Antonsen
+1935042231	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/10/abfe0b44-31ee-46ef-99d9-1afc38267123_image.jpg										© All rights reserved	Håkon Lasse Leira
+1884810614	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2020/7/202c7a44-5b8c-400f-8b58-cba05ac9dbeb_image.jpg										© All rights reserved	Roger Espen
+1845109535	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/4/bf679b0a-1905-4c65-a25f-79f60e5637a0_image.jpg			Da jeg snekret fuglebrettet, var det med tanke på småfuglene...							© All rights reserved	Bjørg Støen
+1844077626	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/4/53c4fa62-a548-44be-a3c0-a25f0e3af875_image.jpg										© All rights reserved	Arnt Stavne
+1844031813	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/3/b9271694-e299-4178-a0a0-5ee4c33497f0_image.jpg										© All rights reserved	Gregorius Toonen
+1825658128	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/1/a15ca33a-b46d-4360-a3bd-cbe889940a62_image.jpg										© All rights reserved	Jan Inge Svensson
+1825592585	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/11/7017279a-5611-4b67-84ab-bc5c94d0504d_image.jpg										© All rights reserved	Ole Andreas Forseth
+1824399426	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/11/c7f975c3-b033-4f4f-9414-61d5dece8b8c_image.jpg			Hvite flekker på vingene!							© All rights reserved	Harald Dahlby
+1823874013	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2018/1/35e77952-2d0b-49d1-bed3-f36349874b1c_image.jpg										© All rights reserved	Jan-Egil Eilertsen
+1823296301	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/10/cdc90772-f697-4588-a39c-18eb0ff29918_image.jpg			"""omissus"" farget"							http://creativecommons.org/licenses/by/4.0/	Are Nakrem
+1823102590	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/10/22eae2ce-8073-45e0-b77a-c0cf2959dbbe_image.jpg										© All rights reserved	Eli Gates
+1823047803	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/9/f9b3848e-f458-4f1c-8f7e-797b2a09eb73_image.jpg										© All rights reserved	Paul Shimmings
+1823047803	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/9/8f701fac-362f-4e2d-8e12-59097d24e969_image.jpg										© All rights reserved	Paul Shimmings
+1823047803	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/9/26195d9b-99f4-4367-86d3-2c6a9c4c403a_image.jpg										© All rights reserved	Paul Shimmings
+1823047803	StillImage	image/jpeg	https://www.artsobservasjoner.no/MediaLibrary/2017/9/6e8f5b56-1f52-470c-9a8a-cb33f07e0ddd_image.jpg										© All rights reserved	Paul Shimmings

@@ -1,0 +1,289 @@
+---
+title: "Supplementary Information Two (S2) for 'Modelling heterogeneity in the classification process in multi-species distribution models can improve predictive performance.'"
+author:
+  - name: Kwaku Peprah Adjei
+    affil-id: 1,2
+  - name: Anders Finstad
+    affil-id: 2,3
+  - name: Wouter Koch
+    affil-id: 1,4
+  - name: Robert B. O'Hara
+    affil-id: 1,2
+affiliations:
+  - id: 1
+    name: Norwegian University of Science and Technology
+    city: Trondheim
+    state: Norway
+  - id: 2
+    name: Center for Biodiversity Dynamics, NTNU
+    city: Trondheim
+    state: Norway
+  - id: 3
+    name: Department of Natural History, Norwegian University of Science and Technology
+    city: Trondheim
+    state: Norway
+  - id: 4
+    name: Norwegian Biodiversity Information Center
+    city: Trondheim
+    state: Norway
+format: 
+  pdf:
+    number-sections: true
+    toc: false
+    keep-tex: true
+    cite-method: natbib
+    template-partials: 
+      - title.tex
+    include-in-header:
+      text: |
+        \usepackage[noblocks]{authblk}
+        \renewcommand*{\Authsep}{, }
+        \renewcommand*{\Authand}{, }
+        \renewcommand*{\Authands}{, }
+        \renewcommand\Affilfont{\small}
+editor: visual
+tbl-cap-location: top
+csl: methods-in-ecology-and-evolution.csl
+output: 
+  pdf_document:
+    fig_crop: true
+    keep_tex: true
+    number-sections: true
+    latex_engine: xelatex
+header-includes: 
+  - \usepackage{mathtools}
+  - \usepackage[round, sort]{natbib}
+  - \usepackage[left]{lineno}
+  - \usepackage{tabularx}
+  - \linenumbers
+  - \usepackage[a4paper, total={6in, 10in}]{geometry}
+  - \usepackage{longtable}
+  - \usepackage{hyperref}
+  - \usepackage{amsmath,amssymb,amsfonts,amsthm}
+  - \usepackage{multirow}
+  - \usepackage{setspace}\doublespacing
+  - \renewcommand{\abstractname}{Summary}  
+  - \usepackage{bm}
+  - \usepackage{algorithm}
+  - \usepackage{algpseudocode}
+  - \usepackage{rotating}
+indent: true
+editor_options: 
+  chunk_output_type: console
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+```{r, echo=FALSE, message=FALSE, warning=FALSE}
+library(readr)
+library(tidyverse)
+library(dplyr)
+library(reshape2)
+library(glue)
+#library(kable)
+library(kableExtra)
+```
+
+```{r, echo=FALSE, message = FALSE, warning=FALSE}
+
+#table(sim[[1]]$C, sim[[1]]$Y)
+
+load("/Users/kwakupa/Dropbox/PHD Analysis Files/misclass1/simData/simulatedData9.RData")
+tt <- lapply(sim, function(x){
+  c(table(x$C, x$Y))
+})%>%
+  do.call("rbind", .)%>%
+  as.data.frame()%>%
+  mutate(model = rep(c("full model", "reduced model", "correlation model"), each = 200),
+         factor = 0)
+
+
+load("/Users/kwakupa/Dropbox/PHD Analysis Files/misclass1/simData/simulatedData12.RData")
+tt1 <- lapply(sim, function(x){
+  ret <- c(table(x$C, x$Y))
+  if(length(ret) == 4){
+    ret <- c(ret[1:2], NA, ret[3:4], NA)
+  }
+  return(ret)
+})%>%
+  do.call("rbind", .)%>%
+  as.data.frame()%>%
+  mutate(model = rep(c("full model", "reduced model", "correlation model"), each = 200),
+         factor = 6)
+
+#combine both datasets together
+
+allData <- rbind(tt, tt1)%>%
+  group_by(model, factor)%>%
+  summarise_at(c(1,2,3,4, 5, 6), list(median = median, sd = sd), na.rm = TRUE)%>%
+  ungroup()#%>%
+ # tidyr::pivot_longer(!c(model, factor),
+  #                   names_to = c("class", "metric"),
+  #                   names_pattern = "(.*)_(.*)",
+          #           values_to = "count")#%>%
+  #tidyr::pivot_wider(names_from = class, values_from = count)
+
+```
+
+```{r, echo = FALSE, message=FALSE, warning=FALSE}
+#| label: tbl-simulation
+#| tbl-cap: Summary of sample sizes for cross-tabulation between each true-state and reported state across the 200 simulations (with standard error in paranthesis) for each of the three simulation scenarios (correlation, full and reduced model) described in section 2.4 in the main paper. The simulation study used two true-states (represented by the first value before the comma in the header of columns three to eight) and three reported states (represented by the second value after the comma in the header of columns three to eight). The number of misclassified samples were decreased by adding a factor of 6 to $\omega_{0jk}$ for all $j = k$.
+missingCovs <- allData%>%
+  dplyr::mutate(across(where(is.double), ~round(.x, digits = 2)))%>%
+  dplyr::mutate(model1 = glue("{`V1_median`} ({`V1_sd`})"),
+                model2 = glue("{`V2_median`} ({`V2_sd`})"),
+                model3 = glue("{`V3_median`} ({`V3_sd`})"),
+                model4 = glue("{`V4_median`} ({`V4_sd`})"),
+                model5 = glue("{`V5_median`} ({`V5_sd`})"),
+                model6 = glue("{`V6_median`} ({`V6_sd`})"))%>%
+  dplyr::select(model,factor, model1, model2, model3, model4, model5, model6)%>%
+  knitr::kable(.,
+               format = "latex",
+    align = "c",
+    booktabs = TRUE,
+    longtable = TRUE,
+    linesep = "",
+               col.names = c("Model", "Factor","1,1", "2,1", "1,2", "2,2", "1,3", "2,3"))%>%
+  kableExtra::kable_styling(latex_options = c("striped", "repeat_header"),
+      stripe_color = "gray!15")%>%
+  kableExtra::landscape()
+
+missingCovs
+```
+
+```{r, echo=FALSE, message=FALSE, warning = FALSE}
+#| label: tbl-trainingData
+#| tbl-cap: Summary of classifications of the gull species - common (\textit{Larus canus}), herring (\textit{Larus argentatus}), great black-backed (\textit{Larus marinus}) and lesser black-backed (\textit{Larus fuscus}) - in the training dataset. 
+#| tbl-cap-location: bottom
+library(readr)
+trainingData <- read_csv("~/Documents/GitHub/misclassification-project/SupplementaryInformationTwo/S2_2_trainingDataSummaryTable.csv")
+
+true_state <- c("common", "great black-backed", "herring", "lesser black-backed")
+
+trainingData <- cbind(true_state, trainingData)%>%
+  knitr::kable(.,
+               format = "latex",
+    align = "c",
+    booktabs = TRUE,
+    longtable = TRUE,
+               col.names = c("True-state", "common", "great black-backed", "herring", "lesser black-backed", "other"))%>%
+  kableExtra::kable_styling(latex_options = c("striped", "repeat_header"),
+      stripe_color = "gray!15")
+trainingData
+```
+
+```{r, echo=FALSE, message=FALSE, warning = FALSE}
+#| label: tbl-validationData
+#| tbl-cap: Summary of classifications of the gull species - common (\textit{Larus canus}), herring (\textit{Larus argentatus}), great black-backed (\textit{Larus marinus}) and lesser black-backed (\textit{Larus fuscus}) - in the validation dataset.
+library(readr)
+trainingData <- read_csv("~/Documents/GitHub/misclassification-project/SupplementaryInformationTwo/S2_3_validationDataSummaryTable.csv")
+
+true_state <- c("common", "great black-backed", "herring", "lesser black-backed")
+
+trainingData <- cbind(true_state, trainingData)%>%
+  knitr::kable(.,
+               format = "latex",
+    align = "c",
+    booktabs = TRUE,
+    longtable = TRUE,
+               col.names = c("True-state", "common", "great black-backed", "herring", "lesser black-backed", "other"))%>%
+  kableExtra::kable_styling(latex_options = c("striped", "repeat_header"),
+      stripe_color = "gray!15")
+trainingData
+```
+
+```{r, message = FALSE, echo=FALSE, warning=FALSE}
+#| label: tbl-biasVariableSelection
+#| tbl-cap: Summary variable selection probability from the simulation studies (with standard errors in parenthesis). The first column refers to the simulation method (full, reduced and correlation), the second column indicated whether we decreased the number of misclassified samples (add $6$ to the $\omega_{0jk}$ for all $j = k$ and baseline refers to using the original true model parameter values) and the next six columns refer to the study scenario type used in this study.
+estimateBiasPars <- read_csv("~/Documents/GitHub/misclassification-project/SupplementaryInformationTwo/estimateBiasPars.csv")
+colNames <- c(colnames(estimateBiasPars))
+#colNames[6] <- "$\beta_{01}$"
+
+
+estimateBiasPars1 <- estimateBiasPars%>%
+  select(c(2:5))%>%
+  dcast(., simMethod + trueMisclassIncrease~ estMethod)%>%
+  dplyr::mutate(across(where(is.double), ~round(.x, digits = 2)))%>%
+  knitr::kable(.,
+               format = "latex",
+    align = "c",
+    booktabs = TRUE,
+    longtable = TRUE)%>%
+  kableExtra::kable_styling(latex_options = c("striped", "repeat_header"),
+      stripe_color = "gray!15")%>%
+  kableExtra::landscape()
+
+estimateBiasPars1
+```
+
+```{r, message = FALSE, echo=FALSE, warning=FALSE}
+#| label: tbl-biasEcologicalPars
+#| tbl-cap: Summary of ecological process paramaters from the simulation studies (with standard errors in parenthesis). The first column refers to the simulation method (full, reduced and correlation), the second column indicated whether we decreased the number of misclassified samples (add $6$ to the $\omega_{0jk}$ for all $j = k$ and baseline refers to using the original true model parameter values) and the next six columns refer to the study scenario type used in this study.
+estimateBiasPars <- read_csv("~/Documents/GitHub/misclassification-project/SupplementaryInformationTwo/estimateBiasPars.csv")
+
+
+
+estimateBiasPars2 <- estimateBiasPars%>%
+  select(c(2,3,4,7,8,9))%>%
+  reshape2::melt(id.vars = c("simMethod", "estMethod", "trueMisclassIncrease"), variable.name = c("Parameters"))%>%
+  dcast(., simMethod + trueMisclassIncrease+Parameters~ estMethod)
+
+lev1 <- "$\\beta_{01}$"
+lev2 <- "$\\beta_{11}$"
+lev3 <- "$\\beta_{12}$"
+levels(estimateBiasPars2$Parameters) <- c(lev1, lev2, lev3)
+# estimateBiasPars2$Parameters <- factor(estimateBiasPars2$Parameters, levels= c(lev1, lev2, lev3))
+estimateBiasPars2 <- estimateBiasPars2%>%
+  knitr::kable(.,
+                 escape = FALSE,
+               format = "latex",
+               #format = "latex",
+    #align = "m",
+    align = "c",
+    booktabs = TRUE,
+    longtable = TRUE,
+   col.names = c("simMethod", "Factor", "Parameters", "constant", "fixed-covariate", "fixed-intercov", "intercept", "main", "variable"))%>%
+  kableExtra::kable_styling(latex_options = c("striped", "repeat_header"),
+      stripe_color = "gray!15")%>%
+  kableExtra::landscape()
+
+estimateBiasPars2
+```
+
+
+```{r, message = FALSE, echo=FALSE, warning=FALSE}
+#| label: tbl-biasObservarionPars
+#| tbl-cap: Summary of bias in observation model parameters from the simulation studies (with standard errors in parenthesis). The first column refers to the simulation method (full, reduced and correlation), the second column indicated whether we decreased the number of misclassified samples (add $6$ to the $\omega_{0jk}$ for all $j = k$ and baseline refers to using the original true model parameter values) and the next six columns refer to the study scenario type used in this study.
+
+
+estimateBiasPars3 <- estimateBiasPars%>%
+  select(c(2,3,4,10:17))%>%
+  reshape2::melt(id.vars = c("simMethod", "estMethod", "trueMisclassIncrease"), variable.name = c("Parameters"))%>%
+  dcast(., simMethod + trueMisclassIncrease+Parameters~ estMethod)
+
+lev1 <- "$\\omega_{011}$"
+lev2 <- "$\\omega_{021}$"
+lev3 <- "$\\omega_{012}$"
+lev4 <- "$\\omega_{022}$"
+lev5 <- "$\\omega_{111}$"
+lev6 <- "$\\omega_{121}$"
+lev7 <- "$\\omega_{112}$"
+lev8 <- "$\\omega_{122}$"
+levels(estimateBiasPars3$Parameters) <- c(lev1, lev2, lev3, lev4, lev5, lev6, lev7, lev8)
+
+estimateBiasPars3 <- estimateBiasPars3%>%
+  knitr::kable(.,
+               escape = FALSE,
+               format = "latex",
+    align = "c",
+    booktabs = TRUE,
+    longtable = TRUE,
+   col.names = c("simMethod", "Factor", "Parameters", "constant", "fixed-covariate", "fixed-intercov", "intercept", "main", "variable"))%>%
+  kableExtra::kable_styling(latex_options = c("striped", "repeat_header"),
+      stripe_color = "gray!15")%>%
+  kableExtra::landscape()
+
+estimateBiasPars3
+```

@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="utf-8"?>
+<eml:eml xmlns:eml="eml://ecoinformatics.org/eml-2.1.1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="eml://ecoinformatics.org/eml-2.1.1 http://rs.gbif.org/schema/eml-gbif-profile/1.2/eml.xsd"
+packageId="10.15468/dl.77362p"  system="http://gbif.org" scope="system"
+xml:lang="en">
+
+    <dataset>
+                <alternateIdentifier>0004240-230828120925497</alternateIdentifier>
+        <title>GBIF Occurrence Download 10.15468/dl.77362p</title>
+            <creator>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </creator>
+            <metadataProvider>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </metadataProvider>
+            <pubDate>
+                2023-09-01
+            </pubDate>
+        <language>ENGLISH</language>
+            <abstract>
+                    <para>A dataset containing all occurrences available in GBIF matching the query:
+{
+  &quot;and&quot; : [
+    &quot;Country is Norway&quot;,
+    &quot;GadmGid is one of (NOR.15_1, NOR.9_1)&quot;,
+    &quot;InstitutionCode is one of (nina, sovon, nof, ntnu-vm)&quot;,
+    &quot;TaxonKey is Larus argentatus Pontoppidan, 1763&quot;,
+    &quot;Year 2006-2023&quot;
+  ]
+}
+The dataset includes records from the following constituent datasets. The full metadata for each constituent is also included in this archive:
+197 records from Seabirds in Norway - Estimated population sizes (SEAPOP)
+4 records from Bird collection NTNU University Museum
+31644 records from Norwegian Species Observation Service</para>
+            </abstract>
+            <contact>
+            <individualName>
+                    <surName>GBIF Download Service</surName>
+            </individualName>
+<electronicMailAddress>support@gbif.org</electronicMailAddress>            </contact>
+
+    </dataset>
+
+    <additionalMetadata>
+        <metadata>
+            <gbif>
+                <dateStamp>2023-09-01T10:15:00Z</dateStamp>
+                <citation identifier="10.15468/dl.77362p">GBIF Occurrence Download 10.15468/dl.77362p</citation>
+                    <physical>
+                        <objectName>Darwin Core Archive</objectName>
+                        <characterEncoding>UTF-8</characterEncoding>
+                        <dataFormat>
+                            <externallyDefinedFormat>
+                                <formatName>Darwin Core Archive</formatName>
+                            </externallyDefinedFormat>
+                        </dataFormat>
+                        <distribution>
+                            <online>
+                                <url function="download">https://api.gbif.org/v1/occurrence/download/request/0004240-230828120925497.zip</url>
+                            </online>
+                        </distribution>
+                    </physical>
+            </gbif>
+        </metadata>
+    </additionalMetadata>
+
+</eml:eml>

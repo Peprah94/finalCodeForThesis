@@ -1,0 +1,6 @@
+Dataset: Seabirds in Norway - Estimated population sizes (SEAPOP) 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Bird collection NTNU University Museum 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode
+Dataset: Norwegian Species Observation Service 
+Rights as supplied: http://creativecommons.org/licenses/by/4.0/legalcode

@@ -1,0 +1,3 @@
+load("/Volumes/kwakupa/idmProject/crossValidation/bumblebees/estimateCrossValidateIDM.RData")
+load("/Volumes/kwakupa/idmProject/crossValidation/bumblebees/estimateCrossValidate.RData")
+load("/Volumes/kwakupa/idmProject/crossValidation/bumblebees/estimateCrossValidate.RData")
